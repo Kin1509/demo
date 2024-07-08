@@ -1,0 +1,26 @@
+[
+{
+    "id": 1,
+    "Hoten": "Maou",
+    "Tel": "0966846718",
+    "Quyen": "Admin"
+},
+{   
+    "id": 2,
+    "Hoten": "Mon",
+    "Tel": "0966846999",
+    "Quyen": "Modrator"
+},
+{
+    "id": 3,
+    "Hoten": "Shin",
+    "Tel": "0966846111",
+    "Quyen": "Normal"
+},
+{
+    "id": 4,
+    "Hoten": "Kami",
+    "Tel": "0966846567",
+    "Quyen": "Admin"
+}
+]
